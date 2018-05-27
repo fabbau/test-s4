@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"ESLint",
+		"ExportHtml",
+		"Highlight",
+		"MatlabFilenameAutoComplete",
+		"Monokai JSON+",
+		"Package Control",
+		"Processing",
+		"ReactJS",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"SassSolution",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jsxhint",
+		"SublimeLog",
+		"TodoReview",
+		"Trimmer",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
+	]
+}
